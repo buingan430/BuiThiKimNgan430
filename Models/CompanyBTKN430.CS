@@ -1,9 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-
-
 namespace BuiThiKimNgan430.Models
 {
-public class CompantBTKN430
+public class CompanytBTKN430
 {
     [Key]
     [StringLength(20)]
